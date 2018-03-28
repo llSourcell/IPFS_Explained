@@ -129,6 +129,7 @@ Below are references, projects, and developing work related to IPFS and Ethereum
 * [container-demos](https://github.com/ipfs/container-demos) - Demos on how to boot docker images and VMs from IPFS.
 * [ipfs-npm](https://github.com/ipfs/ipfs-npm) - npm on IPFS.
 * [luckychain](https://github.com/luckychain/lucky) - Intel SGX and IPFS-based blockchain implementing Proof of Luck.
+* [ipfs-arxiv](https://github.com/ZachisGit/ipfs-arxiv) - Simple IPFS demo site: scripts + installation instructions.
 
 ### Ethereum
 * [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
